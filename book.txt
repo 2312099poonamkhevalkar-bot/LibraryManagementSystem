@@ -1,5 +1,13 @@
-Library Books
+Book Management Module
 
 1. Introduction to Python
 2. Database Management System
 3. Web Development
+4. Artificial Intelligence
+5. Machine Learning
+
+Book Management Operations:
+- Add Book
+- View Book
+- Update Book
+- Delete Book
